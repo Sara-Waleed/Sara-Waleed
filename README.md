@@ -27,6 +27,7 @@ Sara</a></h1>
 
 
 <br/>
+<br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -47,7 +48,8 @@ Sara</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-
+<br/>
+<br/>
  
 ## 🔧 Technologies & Tools
 
@@ -64,7 +66,8 @@ Sara</a></h1>
 </dev></p>
 
 
-
+<br/>
+<br/>
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
