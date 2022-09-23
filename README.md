@@ -49,9 +49,10 @@ Sara</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
+	 
 <br/>
 
-	 <p>__________________________________________________________________________________</p>
+	 <p  align="center">__________________________________________________________________________________</p>
 
  
 ## 🔧 Technologies & Tools
@@ -71,7 +72,7 @@ Sara</a></h1>
 
 <br/>
 <br/>
-<p>__________________________________________________________________________________</p>
+<p align="center">__________________________________________________________________________________</p>
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Yassin522&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Yassin522" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassin522&layout=compact&theme=radical&hide_border=true" alt="Yassin522" /></p>
