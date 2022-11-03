@@ -6,7 +6,7 @@ Sara</a></h1>
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 ## 👨🏻‍💻 &nbsp;About Me
 
-## I'm a Flutter Developer !!
+## I'm a Mobile Application Developer !!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
