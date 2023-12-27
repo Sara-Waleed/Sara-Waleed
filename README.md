@@ -15,7 +15,8 @@ Sara</a></h1>
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022-2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love travelling.
-- ✉️ &nbsp;You can shoot me an email at sarawaled434@gmail.com! I'll try to respond soon.
+- ✉️ &nbsp;You can shoot me an email at sarawaled434@gmail.com!
+-  I'll try to respond soon.
 
 
 
