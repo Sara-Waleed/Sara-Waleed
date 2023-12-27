@@ -12,15 +12,15 @@ Sara</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
+- 🔭 I’m currently working on [more applications).
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 All of my projects are available at [https://github.com/Sara-Waleed).
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about ** Dart& Flutter**
 
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me **sarawaled434@gmail.com**
 
 
 
