@@ -10,15 +10,15 @@ Sara</a></h1>
 ## 👨🏻‍💻 &nbsp;I'm a Mobile Application Developer !!
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [more applications).
+
+- 🔭 I’m currently working on **More Applications**.
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sara-Waleed).
+- 👨‍💻 All of my projects are available at **https://github.com/Sara-Waleed**.
 
-- 💬 Ask me about ** Dart& Flutter**
+- 💬 Ask me about **Dart& Flutter**
 
 - 📫 How to reach me **sarawaled434@gmail.com**
 
