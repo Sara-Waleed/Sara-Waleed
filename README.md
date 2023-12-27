@@ -8,7 +8,7 @@ Sara</a></h1>
 
 ## I'm a Mobile Application Developer !!
 
-<img alt="Night Coding" src=""https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning flutter & dart.
 - 👯 I’m looking to collaborate with other content creators.
