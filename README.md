@@ -19,7 +19,6 @@ Sara</a></h1>
 - 💬 Ask me about **Dart& Flutter**
 
 - 📫 How to reach me **sarawaled434@gmail.com**
-- 
 - 👨‍💻 All of my projects are available at **https://github.com/Sara-Waleed**.
 
 
