@@ -16,11 +16,11 @@ Sara</a></h1>
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at **https://github.com/Sara-Waleed**.
-
 - 💬 Ask me about **Dart& Flutter**
 
 - 📫 How to reach me **sarawaled434@gmail.com**
+- 
+- 👨‍💻 All of my projects are available at **https://github.com/Sara-Waleed**.
 
 
 
