@@ -10,7 +10,7 @@ Sara</a></h1>
 ## 👨🏻‍💻 &nbsp;I'm a Mobile Application Developer !!
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
+<p align="left"> <img src="" /> </p>
 
 - 🔭 I’m currently working on **More Applications**.
 
