@@ -8,16 +8,19 @@ Sara</a></h1>
 
 
 ## 👨🏻‍💻 &nbsp;I'm a Mobile Application Developer !!
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-	<p></p>
-- 🌱 I’m currently learning flutter & dart.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022-2023 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love travelling.
-- ✉️ &nbsp;You can shoot me an email at sarawaled434@gmail.com!
+- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
 
+- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
+- 📫 How to reach me **masteraadi246@gmail.com**
 
 
 
