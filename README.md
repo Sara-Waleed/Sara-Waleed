@@ -5,9 +5,9 @@ Sara</a></h1>
 
 ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
-## 👨🏻‍💻 &nbsp;About Me
 
-## I'm a Mobile Application Developer !!
+
+## 👨🏻‍💻 &nbsp;I'm a Mobile Application Developer !!
 
 <img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -15,8 +15,7 @@ Sara</a></h1>
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022-2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love travelling.
-- ✉️ &nbsp;You can shoot me an email at sarawaled434@gmail.com!
--  I'll try to respond soon.
+- ✉️ &nbsp;You can shoot me an email at sarawaled434@gmail.com! I'll try to respond soon.
 
 
 
