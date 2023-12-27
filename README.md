@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Sara-Waleed" target="blank">
 Sara</a></h1>
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.kommunicate.io/blog/wp-content/uploads/2022/08/Inside_IMG-Things-every-Flutter-Developer-should-know-1-1536x1323.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://media.licdn.com/dms/image/D4D12AQF3DeYjaMs6Cw/article-cover_image-shrink_720_1280/0/1673611044826?e=2147483647&v=beta&t=OVTsEVsa1P3LE06VZJo1HTKK2GpjAo-PEsQoQLGdW-8g)
 
 
 
