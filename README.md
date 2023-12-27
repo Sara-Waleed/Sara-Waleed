@@ -10,7 +10,7 @@ Sara</a></h1>
 ## 👨🏻‍💻 &nbsp; About Me:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> "I'm a Mobile Application Developer !!" </p>
+<p align="left">  **I'm a Mobile Application Developer !!** </p>
 
 - 🔭 I’m currently working on **More Applications**.
 
