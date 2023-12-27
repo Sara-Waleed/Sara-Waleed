@@ -11,14 +11,15 @@ Sara</a></h1>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-	 <p  align="center">
+	<br/>
+ <br/>
 - 🌱 I’m currently learning flutter & dart.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022-2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love travelling.
 - ✉️ &nbsp;You can shoot me an email at sarawaled434@gmail.com!
 
-</p>
+
 
 
 
