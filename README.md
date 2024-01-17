@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Sara-Waleed" target="blank">
 Sara</a></h1>
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://i.pinimg.com/originals/2f/54/1c/2f541c02bb5bdb73b1d7270a995919f5.gif)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)]<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/8a/cc/548acc7aad0722d8fdc6436b713365b5.gif">
 
 
 
