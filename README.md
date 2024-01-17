@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Sara-Waleed" target="blank">
 Sara</a></h1>
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://i.pinimg.com/originals/c0/59/92/c05992ff15c905d06fe9465a53bc9b4d.gif)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://unsplash.com/photos/aerial-view-photography-of-road-between-highrise-building-CAFq0pv9HjY)
 
 
 
 ## 👨🏻‍💻 &nbsp; About Me:
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="Coding" width="480" height="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left">  **I'm a Mobile Application Developer !!** </p>
 
