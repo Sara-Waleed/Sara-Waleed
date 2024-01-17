@@ -46,12 +46,7 @@ Here</a></h1>
 <p align="right">
 
  <div align="right"  class="icons-social" style="margin-left: 10px;">
-	 
-<br/>
-<br/>
-	
 
- 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
