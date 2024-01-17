@@ -43,9 +43,9 @@ Here</a></h1>
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a></div>
 
 </p>
-<p align="left">
+<p align="right">
 
- <div align="left"  class="icons-social" style="margin-left: 10px;">
+ <div align="right"  class="icons-social" style="margin-left: 10px;">
 	 
 <br/>
 <br/>
