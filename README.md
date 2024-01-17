@@ -72,6 +72,25 @@ Here</a></h1>
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="php" width="65" height="40"/> </a> <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="php" width="40" height="40"/> </a> </p>
 
 
+ ## 🔥 Github Stats
+
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
+  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Sara-Waleed"></a>
+  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
+## 📘 My top open source projects
+
+<p align="left">
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+
 </dev></p>
 
 
