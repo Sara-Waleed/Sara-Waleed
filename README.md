@@ -7,7 +7,7 @@ Sara</a></h1>
 
 
 
-## 👨🏻‍💻 &nbsp; About Me:
+<h1 align="center"> 👨🏻‍💻 &nbsp; About Me:</h1>
 <img align="right" alt="Coding" width="480" height="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left">  **I'm a Mobile Application Developer !!** </p>
