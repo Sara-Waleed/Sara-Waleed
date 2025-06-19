@@ -7,7 +7,7 @@
 - 🔭 I'm a passionate **Flutter & Android developer**  
 - 🌱 Currently improving my **Jetpack Compose** and **Firebase** skills  
 - 🚀 I love building clean, scalable UI & mobile apps  
-- 📫 Reach me on **[LinkedIn]([https://www.linkedin.com/in/sara-waleed](https://www.linkedin.com/in/sara-waleed-9b18791b4/))** or explore my work on **[GitHub](https://github.com/Sara-Waleed)**
+- 📫 Reach me on **[LinkedIn]((https://www.linkedin.com/in/sara-waleed-9b18791b4/))** or explore my work on **[GitHub](https://github.com/Sara-Waleed)**
 
 ---
 
