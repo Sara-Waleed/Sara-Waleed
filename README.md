@@ -1,50 +1,52 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Sara-Waleed" target="blank">Sara</a></h1>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220">
 
----
+  <rect width="800" height="220" fill="#2563eb"/>
 
-### 👩‍💻 About Me
+  <text x="50" y="100" fill="white" font-size="32" font-weight="bold">
+    Hi 👋 I'm Sara
+  </text>
 
-- 🔭 I'm a passionate **Flutter & Android developer**  
-- 🌱 Currently improving my **Jetpack Compose** and **Firebase** skills  
-- 🚀 I love building clean, scalable UI & mobile apps  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sara-waleed-9b18791b4/)** or explore my work on **[GitHub](https://github.com/Sara-Waleed)**
+  <text x="50" y="140" fill="#dbeafe" font-size="18">
+    Flutter & Android Developer 🚀
+  </text>
 
----
+  <text x="50" y="170" fill="white" font-size="14" opacity="0.8">
+    I build modern mobile apps
+  </text>
 
-### 🚀 GitHub Stats & Skills
+</svg><svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
 
-<p align="left">
-  
-  <div style="display: inline-block; position: relative; width: 300px; height: 200px;">
-    <img align="right" alt="Coding" width="300" height="200" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
-    <div align="left" style="position: absolute; top: 10px; left: 10px; color: white; font-weight: bold; background-color: rgba(0,0,0,0.6); padding: 10px; border-radius: 10px;">
-      <p>✨ Flutter Tools & Languages ✨</p>
-      <ul>
-        <li>Flutter</li>
-        <li>Dart</li>
-        <li>Android SDK</li>
-        <li>Firebase</li>
-        <li>REST APIs</li>
-        <li>Provider / Bloc / GetX</li>
-        <li>Git & GitHub</li>
-        <li>Figma / UI Design</li>
-      </ul>
-    </div>
-  </div>
-</p>
+  <!-- Background -->
+  <defs>
+    <radialGradient id="grad1" cx="30%" cy="50%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
 
----
+    <radialGradient id="grad2" cx="70%" cy="50%">
+      <stop offset="0%" stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
 
-### 💻 Languages and Tools:
+  <!-- Base -->
+  <rect x="0" y="0" width="800" height="220" rx="20" fill="#020617"/>
 
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+  <!-- Glow effects -->
+  <circle cx="200" cy="150" r="150" fill="url(#grad1)" />
+  <circle cx="600" cy="100" r="150" fill="url(#grad2)" />
 
+  <!-- Text -->
+  <text x="40" y="90" fill="white" font-size="28" font-family="Arial" font-weight="bold">
+    Hi 👋 I'm Sara
+  </text>
+
+  <text x="40" y="120" fill="#93c5fd" font-size="16">
+    Flutter & Android Developer 🚀
+  </text>
+
+  <text x="40" y="145" fill="#cbd5f5" font-size="14">
+    Jetpack Compose • Firebase • Clean Architecture
+  </text>
+
+</svg>
