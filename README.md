@@ -29,6 +29,6 @@
     I build modern mobile apps
   </text>
 
-</svg><svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+</svg><svg width="100%" height="220" viewBox="0 0 800 220" xmlns="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBpMnVvbXlsZGs4b2dyMnUxbzA5cWo0dXJ6YW5jYWZmdjdwa3RjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDB85YZsrqMXx3c7DE/giphy.gif">
 
  
