@@ -6,6 +6,12 @@
 <img src="https://github.com/Sara-Waleed/Sara-Waleed/blob/main/2.png" />
 
 
+### 👩‍💻 About Me
+
+- 🔭 I'm a passionate **Flutter & Android developer**  
+- 🌱 Currently improving my **Jetpack Compose** and **Firebase** skills  
+- 🚀 I love building clean, scalable UI & mobile apps  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sara-waleed-9b18791b4/)** or explore my work on **[GitHub](https://github.com/Sara-Waleed)**
 
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="220">
 
@@ -25,37 +31,4 @@
 
 </svg><svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background -->
-  <defs>
-    <radialGradient id="grad1" cx="30%" cy="50%">
-      <stop offset="0%" stop-color="#1e3a8a"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </radialGradient>
-
-    <radialGradient id="grad2" cx="70%" cy="50%">
-      <stop offset="0%" stop-color="#9333ea"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </radialGradient>
-  </defs>
-
-  <!-- Base -->
-  <rect x="0" y="0" width="800" height="220" rx="20" fill="#020617"/>
-
-  <!-- Glow effects -->
-  <circle cx="200" cy="150" r="150" fill="url(#grad1)" />
-  <circle cx="600" cy="100" r="150" fill="url(#grad2)" />
-
-  <!-- Text -->
-  <text x="40" y="90" fill="white" font-size="28" font-family="Arial" font-weight="bold">
-    Hi 👋 I'm Sara
-  </text>
-
-  <text x="40" y="120" fill="#93c5fd" font-size="16">
-    Flutter & Android Developer 🚀
-  </text>
-
-  <text x="40" y="145" fill="#cbd5f5" font-size="14">
-    Jetpack Compose • Firebase • Clean Architecture
-  </text>
-
-</svg>
+ 
