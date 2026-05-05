@@ -5,30 +5,64 @@
 </p align="center">
 <img src="https://github.com/Sara-Waleed/Sara-Waleed/blob/main/2.png" />
 
+<table>
+  <tr>
+    <td width="50%">
 
 ### 👩‍💻 About Me
-
+-----------------------
 - 🔭 I'm a passionate **Flutter & Android developer**  
 - 🌱 Currently improving my **Jetpack Compose** and **Firebase** skills  
 - 🚀 I love building clean, scalable UI & mobile apps  
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sara-waleed-9b18791b4/)** or explore my work on **[GitHub](https://github.com/Sara-Waleed)**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sara-waleed-9b18791b4/)**  
+- 💻 Check my work on **[GitHub](https://github.com/Sara-Waleed)**
 
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220">
+    </td>
 
-  <rect width="800" height="220" fill="#2563eb"/>
+    <td width="50%" align="right">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBpMnVvbXlsZGs4b2dyMnUxbzA5cWo0dXJ6YW5jYWZmdjdwa3RjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDB85YZsrqMXx3c7DE/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-  <text x="50" y="100" fill="white" font-size="32" font-weight="bold">
-    Hi 👋 I'm Sara
-  </text>
 
-  <text x="50" y="140" fill="#dbeafe" font-size="18">
-    Flutter & Android Developer 🚀
-  </text>
+<p align="center">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+  </a>
+  <span> | </span>
 
-  <text x="50" y="170" fill="white" font-size="14" opacity="0.8">
-    I build modern mobile apps
-  </text>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/>
+  </a>
+  <span> | </span>
 
-</svg><svg width="100%" height="220" viewBox="0 0 800 220" xmlns="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBpMnVvbXlsZGs4b2dyMnUxbzA5cWo0dXJ6YW5jYWZmdjdwa3RjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDB85YZsrqMXx3c7DE/giphy.gif">
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  </a>
+  <span> | </span>
 
- 
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+  </a>
+  <span> | </span>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  </a>
+  <span> | </span>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
+  </a>
+  <span> | </span>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  </a>
+  <span> | </span>
+
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  </a>
+</p>
