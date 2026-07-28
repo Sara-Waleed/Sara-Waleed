@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Sara-Waleed/Sara-Waleed/blob/main/HD%20wallpaper_%20hello%20world%20text%20on%20gray%20background%2C%20simple%20background%2C%20quote.jpg" width="100%" />
+<img src="https://github.com/Sara-Waleed/Sara-Waleed/blob/main/HD%20wallpaper_%20hello%20world%20text%20on%20gray%20background%2C%20simple%20background%2C%20quote.jpg" width="100%" hieght="50%"/>
 
 <table>
   <tr>
